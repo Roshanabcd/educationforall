@@ -61,6 +61,23 @@ Before you begin, make sure you have the following installed:
 
 ## Project Structure
 
+edu4all/ ├── public/
+├── src/
+│ ├── components/
+│ │ ├── auth/
+│ │ ├── courses/
+│ │ ├── dashboard/
+│ │ ├── editor/
+│ │ ├── jobs/
+│ │ ├── qa/
+│ │ └── chat/
+│ ├── pages/
+│ ├── redux/
+│ ├── services/
+│ ├── styles/
+│ ├── utils/
+│ └── App.js
+└── package.json
 
 ## Contributing
 
